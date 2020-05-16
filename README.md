@@ -4,5 +4,5 @@ A simple script to decode the genome DNA binary sequence (CTF Challenge)
 ```python dna.py example_cipher```
 
 ## Reference 
-![Images/dna_codes.png](img/dna_codes.png)
-![Images/genome_coding.jpg](img/genome-coding.jpg)
+![Images/dna_codes.png](Images/dna_codes.png)
+![Images/genome_coding.jpg](Images/genome-coding.jpg)
