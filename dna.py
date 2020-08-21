@@ -6,6 +6,7 @@ mapping = {
 
 def bin_2_code(string):
 	string = string.replace(" ","")
+	string = string.replace("\n","")
 	final=""
 	for j in range(0,len(string),2):
 		final+=bin_dna[string[j:j+2]]
